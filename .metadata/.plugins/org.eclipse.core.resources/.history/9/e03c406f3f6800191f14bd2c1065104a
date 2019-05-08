@@ -1,0 +1,5 @@
+package com.asheet.location.controllers;
+
+public class LocationController {
+
+}
